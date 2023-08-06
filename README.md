@@ -5,7 +5,11 @@ This is a repository for a ZMK Firmware for both Dao42 and Dao44 keyboards.
 * [main](https://github.com/yumagulovrn/dao-zmk-config/tree/main) branch is for Dao42
 * [dao44](https://github.com/yumagulovrn/dao-zmk-config/tree/dao44) branch is, obviously, for Dao44
 
-## Default keymap
+## Keymap versions:
+
+Default: [kle](http://www.keyboard-layout-editor.com/#/gists/67a81f6b83c65abcda5e7f32989a1688)
+
+v1: [data kle](https://github.com/u1f5a4/dao-zmk/blob/main/v1.kle)
 
 ### Dao42
 
