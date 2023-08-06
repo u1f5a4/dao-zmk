@@ -11,6 +11,8 @@ Default: [kle](http://www.keyboard-layout-editor.com/#/gists/67a81f6b83c65abcda5
 
 v1: [data kle](https://github.com/u1f5a4/dao-zmk/blob/main/v1.kle)
 
+v2: [data kle](https://github.com/u1f5a4/dao-zmk/blob/main/v2.kle)
+
 ### Dao42
 
 Visual representation of the default keymap in keyboard-layout-editor: [KLE](http://www.keyboard-layout-editor.com/#/gists/67a81f6b83c65abcda5e7f32989a1688)
